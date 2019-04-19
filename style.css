@@ -1,0 +1,12 @@
+body{ 
+    width: 780px; 
+    background: #b4f0c4a2; 
+    margin: 0 auto; 
+    border: 1px solid #000000; 
+    text-align: left; 
+}
+
+.main-header {
+    border:1px solid black;
+    background-color:lightblue;
+  }
